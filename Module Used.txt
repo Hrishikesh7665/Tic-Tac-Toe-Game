@@ -1,0 +1,7 @@
+Pygame(Mixer Only)
+Webbrowser
+Tkinter
+Thread
+Random
+Time
+Os
