@@ -9,12 +9,14 @@ All Resources Use In This Project Is Downloaded From Google And It's Bellong To 
 Dependencies:
   
   Python3
+  
   Tkinter
+  
   etc.
 
 
 
-Tested on Platforms:
+Tested On Platforms:
 
   Windows
 
@@ -37,7 +39,7 @@ Important  Notice:-
     
     
     Your Idle May Be Show
-    ----> Undefined variable: 'g_gameEnd' at line [433,8] <----- This Warning 
+    ----> Undefined variable: 'g_gameEnd' at line [440,8] <----- This Warning 
     Don't Panic This Is Not An Error & This Warning Doesn't Create Any Problem.
     
     In Source Folder You Can Find This --> libmpg123.dll <--- File
